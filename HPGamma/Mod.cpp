@@ -112,7 +112,7 @@ void Init_Gamma()
 }
 
 NJS_MATERIAL* Specular3[] = {
-	&material_8D9980C3C84FC606D96[0],
+	&matlist_001FD8E8[0],
 };
 
 void ForceIgnoreSpecular_Object(NJS_OBJECT* obj, bool recursive)
